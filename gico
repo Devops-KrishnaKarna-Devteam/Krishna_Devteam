@@ -1,0 +1,8 @@
+git commit
+echo "first git commit"
+name=krishna
+echo "my name is :" $name
+date
+echo "prcess id" $$
+echo "lst command :" $?
+echo "no of arguments :" $#
